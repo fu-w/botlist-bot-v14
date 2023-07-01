@@ -1,0 +1,17 @@
+{
+  "name": "anjudev-github-v14-botlist",
+  "version": "1.0.0",
+  "description": "Discord discord.gg/anjudev ",
+  "main": "furki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anju Development| furkibu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  }
+}
